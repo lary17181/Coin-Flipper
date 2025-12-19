@@ -25,4 +25,3 @@ This project was created to practice mobile development, UI interaction, and bas
 ## 💡 Future Improvements
 - Result counter (Heads vs Tails)
 - Animations for coin flipping
-- Sound effects
